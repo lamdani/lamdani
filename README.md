@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lamdani
 - 👀 I’m interested in DATABASE(RDBMS)
 - 🌱 I’m currently learning PHP,Python, C, HTML, CSS, Javascript, and SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on DATABASE
 - 📫 How to reach me , you can send me a message with GMAIL ,  my gmail : lamjeck26@gmail.com
 
 <!---
